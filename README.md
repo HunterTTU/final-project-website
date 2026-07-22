@@ -35,7 +35,7 @@ Project documentation is located in the **docs** folder:
 
 ## Live Website
 
-*(Paste your GitHub Pages URL here after it is published.)*
+https://hunterttu.github.io/final-project-website/
 
 ## Repository
 
